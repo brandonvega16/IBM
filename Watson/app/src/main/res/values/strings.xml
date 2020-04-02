@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Watson</string>
+    <string name="what_s_on_your_mind">Escribe tu pregunta</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
